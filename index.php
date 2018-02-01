@@ -3,9 +3,9 @@
 <p>Сегодня вышла демо-запись альбома &quot;Красная Волна&quot; молодой рязанской группы Нейрохирургия, в которую входят Артемий Денисенко и Сергей Булеков. Список композиций приведён ниже
 <br/>
 <img src='images/Cover.png'/><br/>
-<audio controls src='audios/Нейрохирургия - Винтовка (cover to Гражданская Оборона).mp3'/><br/>
-<audio controls src='audios/Нейрохирургия - Пролетарская.mp3'/><br/>
-<audio controls src='audios/Нейрохирургия - Вечный скот.mp3'/>
+<audio controls src="audios/Нейрохирургия - Винтовка (cover to Гражданская Оборона).mp3"></audio><br/>
+<audio controls src="audios/Нейрохирургия - Пролетарская.mp3"></audio><br/>
+<audio controls src="audios/Нейрохирургия - Вечный скот.mp3"></audio>
 <br/><i>01.02.2018:19:08</i></p>
 
 <?php
