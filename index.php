@@ -9,5 +9,5 @@
 <br/><i>01.02.2018:19:08</i></p>
 
 <?php
-	header("Content-Type: application/xhtml+xml;charset=utf-8");
+	header("Content-Type: text/html;charset=utf-8");
 ?>
