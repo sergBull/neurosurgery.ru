@@ -1,5 +1,5 @@
 <?php
-	header("Content-Type: text/html;charset=utf-8");
+	header("Content-Type: application/xhtml+xml;charset=utf-8");
 	
 	echo "<h1>Нейрохирургия</h1><br/>";
 	echo "<h2>Сегодня вышла демо-запись альбома &quot;Красная Волна&quot;</h2><br/>";
